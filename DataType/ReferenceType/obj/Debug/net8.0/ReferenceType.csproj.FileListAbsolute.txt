@@ -1,0 +1,14 @@
+/Users/zero/RiderProjects/DataType/ReferenceType/bin/Debug/net8.0/ReferenceType
+/Users/zero/RiderProjects/DataType/ReferenceType/bin/Debug/net8.0/ReferenceType.deps.json
+/Users/zero/RiderProjects/DataType/ReferenceType/bin/Debug/net8.0/ReferenceType.runtimeconfig.json
+/Users/zero/RiderProjects/DataType/ReferenceType/bin/Debug/net8.0/ReferenceType.dll
+/Users/zero/RiderProjects/DataType/ReferenceType/bin/Debug/net8.0/ReferenceType.pdb
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.AssemblyInfoInputs.cache
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.AssemblyInfo.cs
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.csproj.CoreCompileInputs.cache
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.dll
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/refint/ReferenceType.dll
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.pdb
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ReferenceType.genruntimeconfig.cache
+/Users/zero/RiderProjects/DataType/ReferenceType/obj/Debug/net8.0/ref/ReferenceType.dll
