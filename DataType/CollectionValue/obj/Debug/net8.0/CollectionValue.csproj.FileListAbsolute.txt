@@ -1,0 +1,15 @@
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/bin/Debug/net8.0/CollectionValue
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/bin/Debug/net8.0/CollectionValue.deps.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/bin/Debug/net8.0/CollectionValue.runtimeconfig.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/bin/Debug/net8.0/CollectionValue.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/bin/Debug/net8.0/CollectionValue.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.AssemblyInfoInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.AssemblyInfo.cs
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.csproj.CoreCompileInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.sourcelink.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/refint/CollectionValue.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/CollectionValue.genruntimeconfig.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/CollectionValue/obj/Debug/net8.0/ref/CollectionValue.dll

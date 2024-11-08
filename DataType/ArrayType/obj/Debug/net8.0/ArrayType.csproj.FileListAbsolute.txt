@@ -1,0 +1,15 @@
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/bin/Debug/net8.0/ArrayType
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/bin/Debug/net8.0/ArrayType.deps.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/bin/Debug/net8.0/ArrayType.runtimeconfig.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/bin/Debug/net8.0/ArrayType.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/bin/Debug/net8.0/ArrayType.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.AssemblyInfoInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.AssemblyInfo.cs
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.csproj.CoreCompileInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.sourcelink.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/refint/ArrayType.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ArrayType.genruntimeconfig.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/ArrayType/obj/Debug/net8.0/ref/ArrayType.dll

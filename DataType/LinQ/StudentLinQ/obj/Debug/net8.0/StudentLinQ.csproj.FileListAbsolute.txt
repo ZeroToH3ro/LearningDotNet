@@ -1,0 +1,15 @@
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/bin/Debug/net8.0/StudentLinQ
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/bin/Debug/net8.0/StudentLinQ.deps.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/bin/Debug/net8.0/StudentLinQ.runtimeconfig.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/bin/Debug/net8.0/StudentLinQ.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/bin/Debug/net8.0/StudentLinQ.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.AssemblyInfoInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.AssemblyInfo.cs
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.csproj.CoreCompileInputs.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.sourcelink.json
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/refint/StudentLinQ.dll
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.pdb
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/StudentLinQ.genruntimeconfig.cache
+/Users/zero/RiderProjects/DotNetInterview/DataType/LinQ/StudentLinQ/obj/Debug/net8.0/ref/StudentLinQ.dll

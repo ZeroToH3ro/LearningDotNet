@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zero/RiderProjects/DataType/DataTypeValueType/DataTypeValueType.csproj": {}
+    "/Users/zero/RiderProjects/DotNetInterview/DataType/DataTypeValueType/DataTypeValueType.csproj": {}
   },
   "projects": {
-    "/Users/zero/RiderProjects/DataType/DataTypeValueType/DataTypeValueType.csproj": {
+    "/Users/zero/RiderProjects/DotNetInterview/DataType/DataTypeValueType/DataTypeValueType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zero/RiderProjects/DataType/DataTypeValueType/DataTypeValueType.csproj",
+        "projectUniqueName": "/Users/zero/RiderProjects/DotNetInterview/DataType/DataTypeValueType/DataTypeValueType.csproj",
         "projectName": "DataTypeValueType",
-        "projectPath": "/Users/zero/RiderProjects/DataType/DataTypeValueType/DataTypeValueType.csproj",
+        "projectPath": "/Users/zero/RiderProjects/DotNetInterview/DataType/DataTypeValueType/DataTypeValueType.csproj",
         "packagesPath": "/Users/zero/.nuget/packages/",
-        "outputPath": "/Users/zero/RiderProjects/DataType/DataTypeValueType/obj/",
+        "outputPath": "/Users/zero/RiderProjects/DotNetInterview/DataType/DataTypeValueType/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zero/.nuget/NuGet/NuGet.Config"
